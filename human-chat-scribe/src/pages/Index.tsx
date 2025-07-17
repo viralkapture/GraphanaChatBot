@@ -120,7 +120,7 @@ const Index = () => {
             </div>
             <div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
-                AI Knowledge Assistant
+                Graphana Knowledge Assistant
               </h1>
               <p className="text-sm text-gray-600">Ask questions about my knowledge base</p>
             </div>
